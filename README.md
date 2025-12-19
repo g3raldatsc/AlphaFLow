@@ -35,5 +35,5 @@ Proyek ini menggunakan struktur direktori modular untuk memastikan skalabilitas 
 
 *Author:* [@g3raldatsc](https://github.com/g3raldatsc)
 <p align="center">
-  <img src="https://media.tenor.com/8b2-2a17wIAAAAAM/wow-world-of-warcraft.gif" width="200" alt="Anime Gif">
+  <img src="https://media.tenor.com/ROZrff3gfMwAAAAm/evernight-dance.webp" width="200" alt="Anime Gif">
 </p>
