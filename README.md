@@ -35,5 +35,5 @@ Proyek ini menggunakan struktur direktori modular untuk memastikan skalabilitas 
 
 *Author:* [@g3raldatsc](https://github.com/g3raldatsc)
 <p align="center">
-  <img src="https://tenor.com/id/view/evernight-dance-evernight-dance-honkai-star-rail-hsr-gif-4964773828096982220" width="200" alt="Anime Gif">
+  <img src="https://media.tenor.com/8b2-2a17wIAAAAAM/wow-world-of-warcraft.gif" width="200" alt="Anime Gif">
 </p>
