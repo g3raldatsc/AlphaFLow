@@ -23,7 +23,7 @@ Proyek ini menggunakan struktur direktori modular untuk memastikan skalabilitas 
 
 ## Instalasi
 1. Klon repositori ini.
-2. Instal pustaka yang diperlukan: pip install yfinance pandas scikit-learn dan lain-lain. Simpan di venv.
+2. Install apa yang dibutuhkan melalui requirements.txt
 3. Jalankan skrip melalui direktori notebooks/.
 
 ---
