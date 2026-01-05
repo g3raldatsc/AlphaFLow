@@ -1,0 +1,14 @@
+Informasi
+
+Untuk file-file di dalam folder src yang berserakan, yaitu:
+
+1. ambil_data.py
+2. evaluasi_model.py
+3. model_prediksi_rumus.py
+4. model_prediksi.py
+5. visualisasi.py
+
+merupakan file-file yang digunakan untuk melakukan penelitian menggunakan metode "Regresi Linear". Mengapa tidak digabungkan dalam satu folder? Karena hal
+itu akan membuat penelitian sebelumnya berantakan dan hancur. Sehingga, tidak memungkinkan untuk memindahkannya dalam satu folder yang tergabung.
+
+Atas perhatiannya, saya ucapkan terima kasih.
